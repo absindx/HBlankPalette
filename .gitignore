@@ -1,0 +1,17 @@
+Thumbs.db
+*.exe
+*.dll
+*.old
+*.bak
+*.cache
+*.log
+*.txt
+
+*.nes
+*.fns
+*.zip
+*.lnk
+
+Release/*
+Old/*
+*_Old/*
